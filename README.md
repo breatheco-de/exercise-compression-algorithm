@@ -44,7 +44,9 @@ The current project has 3 main files:
 4. Test your compression algorithm by running the app.py again.
 5. Edit the decompress.py to create the **decompression** algorithm.
 6. Test your decompression algorithm by running the app.py again.
-7. 
+
+<onlyfor saas="false" withBanner="false">
+    
 ## 🌱  How to start this project
 
 This project comes with the necessary files to start working, but you have two options to start:
@@ -70,6 +72,7 @@ document.txt has 824 size, compressed.txt has 768 size, compression of 7% in 0.0
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
+</onlyfor>
 
 ## 🎯 Metrics
 
