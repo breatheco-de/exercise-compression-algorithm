@@ -6,6 +6,7 @@
 	"solution": "https://github.com/breatheco-de/exercise-compression-algorithm-python/tree/solution",
 	"status": "published",
 	"duration" : 4,
+	"template_url": "self",
 	"difficulty": "beginner",
 	"technologies": ["python", "terminal", "command line", "compression", "arrays"],
 	"talents": [

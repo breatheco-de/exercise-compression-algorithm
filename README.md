@@ -35,7 +35,6 @@ The current project has 3 main files:
 | decompress.py | It's very similar to `compress.py` but it contains the algorithm to convert back the content from its compressed version to the original content |
 | app.py | This is an entry file, and there is no need to update it, it imports and uses the other two files |
 
-
 ## 🔢 Steps
 
 1. Take time to understand the code, start by opening and reading the `app.py` and follow the algorithm with your brain, review the compress.py and decompress.py files to understand where your solution must be implemented.
@@ -46,25 +45,29 @@ The current project has 3 main files:
 6. Test your decompression algorithm by running the app.py again.
 
 <onlyfor saas="false" withBanner="false">
-    
-## 🌱  How to start this project
 
-This project comes with the necessary files to start working, but you have two options to start:
+## 🌱 How to start this project
 
-a) Open this link in your browser with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-compression-algorithm-python.git
+This project comes with the necessary files to get started, and you have two options to begin:
 
-b) You can clone this repository on your local computer:
+a) Open this link with [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod) in your browser: https://s.4geeks.com/start?repo=breatheco-de/exercise-compression-algorithm-python
+
+b) Clone this repository locally on your computer:
+
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-compression-algorithm-python.git
-````
+```
 
-Type the following in the command line:
+### Steps
+
+1. Run the following command in the terminal:
 
 ```bash
 python3 app.py
-``` 
+```
 
 You should get a response similar to this:
+
 ```bash
 ✅No data lost.
 document.txt has 824 size, compressed.txt has 768 size, compression of 7% in 0.0003972053527832031 seconds 
